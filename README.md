@@ -7,7 +7,6 @@
 
 ## Screenshots of the project :
 
-```I've used the Assets given by Coding Blocks because I made this project to be a part of their challenge.```
 
 ### Before SPIN
 
