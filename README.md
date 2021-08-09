@@ -10,10 +10,11 @@
 
 ### Before SPIN
 
-![before1](https://user-images.githubusercontent.com/39314095/128752904-da0c9e98-0e10-4c56-98d4-34ba4b045672.png)
+![eforee](https://user-images.githubusercontent.com/39314095/128753312-380705ed-59b6-4688-aca1-cbc7aa4d1af7.png)
 
 
 
 ### After SPIN
 
-![after1](https://user-images.githubusercontent.com/39314095/128752919-4db981c8-971e-4ba9-b7ee-ad8870d880e2.png)
+![prize](https://user-images.githubusercontent.com/39314095/128753319-e626f487-552d-47ce-b357-3579a3b749fb.png)
+
